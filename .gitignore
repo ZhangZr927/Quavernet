@@ -1,0 +1,12 @@
+_pycache_
+*.pth
+*.npy
+*.mp3
+*.qua
+
+data/
+ai_2stage_chart/
+ai_rhythm_test/
+init_models/
+stage2_models/
+
